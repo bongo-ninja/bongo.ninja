@@ -1,0 +1,3 @@
+# Hide HTML and CSS in linguist bar cuz i dont like it showing that i use html and css a lot lol
+*.html linguist-language=JavaScript
+*.css linguist-language=JavaScript
